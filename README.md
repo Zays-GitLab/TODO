@@ -1,7 +1,7 @@
 # To_Do
 This App can track your To Do's in a list format. 
 
-# Project 1 - *To_Do*
+# Project -> *To_Do*
 
 **To_Do** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
 
