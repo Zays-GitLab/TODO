@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' width="50"/>
+<img src='ezgif.com-gif-maker.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' height="500"/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
